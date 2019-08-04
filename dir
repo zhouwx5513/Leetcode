@@ -4,7 +4,13 @@
 #617  (Merge_Two_Binary_Trees)          合并二叉树
 #226 （Invert_Binary_Tree）              翻转二叉树                   翻转一棵二叉树
 #104  (Maximum_Depth_of_Binary_Tree)    二叉树的最大深度              给定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上
+#559  (Maximum_Depth_of_N_Tree)         N叉树的最大深度
 #700  (Search_in_a_Binary_Search_Tree)  二叉搜索树中的搜索            在BST中找到节点值等于给定值的节点。
 #144  (Binary_Tree_Preorder_Traversal)  二叉树的前序遍历
 #94   (Binary_Tree_Inorder_Traversal)   二叉树的中序遍历
 #145  (Binary_Tree_Postorder_Traversal) 二叉树的后序遍历
+#589  (N_Tree_Preorder_Traversal)       N叉树的前序遍历
+#590  (N_Tree_Postorder_Traversal)      N叉树的后序遍历
+#108  (Convert_Sorted_Array_to_BST)     将有序数组转换为二叉搜索树      将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树
+#965  (Univalued_Binary_Tree)           单值二叉树                   判断单值二叉树，如果二叉树每个节点都具有相同的值，那么该二叉树就是单值二叉树
+#429  (N_Tree_Level_Order_Traversal)    N叉树的层序遍历               给定一个 N 叉树，返回其节点值的层序遍历
