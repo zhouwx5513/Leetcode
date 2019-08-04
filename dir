@@ -1,16 +1,27 @@
 树：
 
-#938 （Range_Sum_of_BST）                二叉搜索树的范围和            给定二叉搜索树的根结点root，返回 L和R（含）之间的所有结点的值的和
-#617  (Merge_Two_Binary_Trees)          合并二叉树
-#226 （Invert_Binary_Tree）              翻转二叉树                   翻转一棵二叉树
-#104  (Maximum_Depth_of_Binary_Tree)    二叉树的最大深度              给定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上
-#559  (Maximum_Depth_of_N_Tree)         N叉树的最大深度
-#700  (Search_in_a_Binary_Search_Tree)  二叉搜索树中的搜索            在BST中找到节点值等于给定值的节点。
-#144  (Binary_Tree_Preorder_Traversal)  二叉树的前序遍历
-#94   (Binary_Tree_Inorder_Traversal)   二叉树的中序遍历
-#145  (Binary_Tree_Postorder_Traversal) 二叉树的后序遍历
-#589  (N_Tree_Preorder_Traversal)       N叉树的前序遍历
-#590  (N_Tree_Postorder_Traversal)      N叉树的后序遍历
-#108  (Convert_Sorted_Array_to_BST)     将有序数组转换为二叉搜索树      将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树
-#965  (Univalued_Binary_Tree)           单值二叉树                   判断单值二叉树，如果二叉树每个节点都具有相同的值，那么该二叉树就是单值二叉树
-#429  (N_Tree_Level_Order_Traversal)    N叉树的层序遍历               给定一个 N 叉树，返回其节点值的层序遍历
+#938    （Range_Sum_of_BST）                   二叉搜索树的范围和            给定二叉搜索树的根结点root，返回 L和R（含）之间的所有结点的值的和
+#617     (Merge_Two_Binary_Trees)             合并二叉树
+#226    （Invert_Binary_Tree）                 翻转二叉树                   翻转一棵二叉树
+#104     (Maximum_Depth_of_Binary_Tree)       二叉树的最大深度              给定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上
+#559     (Maximum_Depth_of_N_Tree)            N叉树的最大深度
+#700     (Search_in_a_Binary_Search_Tree)     二叉搜索树中的搜索            在BST中找到节点值等于给定值的节点。
+#144     (Binary_Tree_Preorder_Traversal)     二叉树的前序遍历
+#94      (Binary_Tree_Inorder_Traversal)      二叉树的中序遍历
+#145     (Binary_Tree_Postorder_Traversal)    二叉树的后序遍历
+#102     (Binary_Tree_Level_Order_Traversal)  二叉树的层次遍历              自上向下的层次遍历
+#107     (Binary_Tree_Level_Order_Traversal)  二叉树的层次遍历             自底向上的层次遍历
+#589     (N_Tree_Preorder_Traversal)          N叉树的前序遍历
+#590     (N_Tree_Postorder_Traversal)         N叉树的后序遍历
+#108     (Convert_Sorted_Array_to_BST)        将有序数组转换为二叉搜索树     将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树
+#965     (Univalued_Binary_Tree)              单值二叉树                   判断单值二叉树，如果二叉树每个节点都具有相同的值，那么该二叉树就是单值二叉树
+#429     (N_Tree_Level_Order_Traversal)       N叉树的层序遍历               给定一个 N 叉树，返回其节点值的层序遍历
+#669     (Trim_a_Binary_Search_Tree)          修剪二叉搜索树                给定BST，最小和最大边界LR。修剪二叉搜索树，使得所有节点的值在[L, R]中
+#637     (Average_of_Levels_in_Binary_Tree)   二叉树的层平均值              给定一个非空二叉树, 返回一个由每层节点平均值组成的数组
+#235     (Lowest_Common_Ancestor_of_a_BST)    二叉搜索树的最近公共祖先       给定一个BST, 找到该树中两个指定节点的最近公共祖先。(一个节点也可以是它自己的祖先)
+#538     (Convert_BST_to_Greater_Tree)        把二叉搜索树转换为累加树       转换一个BST成为累加树，使得每个节点的值是原来的节点值加上所有大于它的节点值之和。
+#112     (Path_Sum)                           路径总和                     判断该树中是否存在根节点到叶子节点的路径上所有节点值相加等于目标和。
+#113     (Path_Sum)                           路径总和                     找到所有从根节点到叶子节点路径总和等于给定目标和的路径。
+#437     (Path_Sum)                           路径总和                     找出路径和等于给定数值的路径总数。（不局限于根节点和叶子节点）
+#101    （Symmetric_Tree）                    对称二叉树                    给定一个二叉树，检查它是否是镜像对称的。
+#543     (Diameter_of_Binary_Tree)            二叉树的直径                  计算一个二叉树的直径。直径是任意两个结点路径长度中的最大值。这条路径可能穿过根结点。
