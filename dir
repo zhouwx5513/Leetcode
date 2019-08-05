@@ -31,4 +31,11 @@
 #100     (Same_Tree)                         相同的树                     给定两个二叉树，编写一个函数来检验它们是否相同
 #530     (Minimum_Absolute_Difference_in_BST)二叉搜索树的最小绝对差          给定一个所有节点为非负值的二叉搜索树，求树中任意两节点的差的绝对值的最小值
 #653     (Two_Sum_of_BST)                    两数之和 IV - 输入 BST        给定一个BST和一个目标，如果BST中存在两个元素且它们的和等于给定的目标结果，则返回true。
-#783     (Minimum_Distance_Between_BST_Nodes)二叉搜索树结点最小距离           给定一个二叉搜索树的根结点 root, 返回树中任意两节点的差的最小值
+#783     (Minimum_Distance_Between_BST_Nodes)二叉搜索树结点最小距离          给定一个二叉搜索树的根结点 root, 返回树中任意两节点的差的最小值
+#404     (Sum_of_Left_Leaves)                左叶子之和                    计算给定二叉树的所有左叶子之和。
+#606     (Construct_String_from_Binary_Tree)根据二叉树创建字符串            采用前序遍历的方式，将一个二叉树转换成一个由括号和整数组成的字符串。空节点则用一对空括号 "()" 表示
+#563     (Binary_Tree_Tilt)                 二叉树的坡度                   给定一个二叉树，计算整个树的坡度。一个树的节点的坡度定义即为，该节点左子树的结点之和和右子树结点之和的差的绝对值。空结点的的坡度是0。整个树的坡度就是其所有节点的坡度之和
+#110     (Balanced_Binary_Tree)             平衡二叉树                     给定一个二叉树，判断它是否是高度平衡的二叉树。
+#270     (Closest_Binary_Search_Tree_Value) 最接近的二叉搜索树值            给定一个不为空的BST和一个目标值target，请在该BST中找到最接近目标值target的数值。
+#993     (Cousins_in_Binary_Tree)            二叉树的堂兄弟节点             如果二叉树的两个节点深度相同，但父节点不同，则它们是一对堂兄弟节点。
+
