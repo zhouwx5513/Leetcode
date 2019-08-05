@@ -15,9 +15,9 @@ public class Binary_Tree_Postorder_Traversal {
 
     public void helper(TreeNode root, List <Integer> res) {
         if (root != null) {
-            res.add(root.val);
             if (root.left != null) helper(root.left, res);
             if (root.right != null) helper(root.right, res);
+            res.add(root.val);
         }
     }
 }

@@ -15,8 +15,8 @@ public class Binary_Tree_Inorder_Traversal {
 
     public void helper(TreeNode root, List <Integer> res) {
         if (root != null) {
-            res.add(root.val);
             if (root.left != null) helper(root.left, res);
+            res.add(root.val);
             if (root.right != null) helper(root.right, res);
         }
     }
